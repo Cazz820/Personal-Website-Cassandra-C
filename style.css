@@ -1,0 +1,137 @@
+/* STYLE SECTIONING TAGS */
+* {
+  margin:0px;
+  padding:0px;
+}
+body {
+ background-color: #F68EA3;
+  text-align: center;
+}
+header{
+  background-color:#2D936C;
+  text-align: center;
+}
+main {
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 20%;
+  margin-left: 20%;
+  text-align: center;
+}
+
+/* STYLE TEXT */
+#index_header {
+  color: #EEEBD0;
+  font-family: Times;
+  text-align: center;
+  font-weight: 50px;
+  font-size: 33px;
+  letter-spacing: 3;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+#breaking_news {
+  color: #4F9D69;
+  text-align: center;
+  font-weight:bold;
+  padding-top: 20px;
+  padding-bottom: 10px;
+}
+
+.heading_3 {
+  color:  #EEEBD0;
+  padding-bottom: 10px;
+}
+.paragraph{
+  color: #F1FFFA;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+  font-size:20px;
+}
+/* STYLE IMAGES */
+img {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  max-width: 50%;
+  max-height: 60%;
+  border-radius: 0%;
+  border: 3px solid white;
+}
+/* STYLE NAV BAR */
+.nav{
+  list-style-type: none;
+  background-color: #2D936C;
+  overflow: none;
+}
+.nav_li{
+  display:inline;
+}
+li a{
+  color: white;
+  padding:1px;
+  padding-top: 6px;
+  padding-left: 6px;
+  padding-right:6px;
+  margin: 4px;
+  text-decoration:none;
+}
+li a:hover{
+  background-color:#5B8C5A;
+}
+
+/* About me page */
+#About_Me {
+  padding-top:10px;
+  padding-bottom: 5px;
+  color:#EEEBD0;
+}
+
+#welcome {
+  color:  #4F9D69;
+  padding-top: 15px;
+  padding-bottom:15px;
+  font-weight: bold;
+  font-size: 30px;
+}
+#music{
+  color: #EEEBD0;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+#skills {
+  color: #EEEBD0;
+  font-size:28px;
+  padding-top:10px;
+  padding-bottom: 5px;
+}
+#About_me_skills{
+  color: #EEEBD0;
+  padding-top:15px;
+  padding-bottom:10px;
+}
+.skills{
+  list-style-type:none;
+  font-weight:bold;
+  font-size:20px;
+  padding-bottom:4px;
+  padding-top:4px;
+}
+#hobbies{
+  color: #EEEBD0;
+  padding-top:20px;
+  padding-bottom:10px;
+}
+/*Portfolio Page*/
+#portfolio{
+  color:  #EEEBD0;
+  padding-top:10px;
+  padding-bottom:10px;
+}
+#my_work{
+  color:  #EEEBD0;
+  font-size:30px;
+  padding-top:20px;
+  padding-bottom:15px;
+}
