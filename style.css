@@ -135,3 +135,28 @@ li a:hover{
   padding-top:20px;
   padding-bottom:15px;
 }
+/* Blog */
+.blog-container {
+  max-width: 800px; /* Limits width so it's easy to read */
+  margin: 40px auto; /* Centers the container on the page */
+  padding: 0 20px;   /* Adds a little space on the sides for mobile */
+}
+
+.doc-title {
+  font-family: Times;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.doc-caption {
+  font-style: italic;
+  font-size: 0.9rem;
+  color: #666;
+  margin-top: 10px;
+}
+
+iframe {
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
