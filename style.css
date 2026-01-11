@@ -89,7 +89,7 @@ li a:hover{
 }
 
 #welcome {
-  color:  #4F9D69;
+  color: #EEEBD0
   padding-top: 15px;
   padding-bottom:15px;
   font-weight: bold;
@@ -145,13 +145,13 @@ li a:hover{
 .doc-title {
   font-family: Times;
   margin-bottom: 15px;
-  color: #333;
+  color: #EEEBD0
 }
 
 .doc-caption {
   font-style: italic;
-  font-size: 0.9rem;
-  color: #666;
+  font-size: 1px;
+  color: #F1FFFA;
   margin-top: 10px;
 }
 
